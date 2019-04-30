@@ -1,4 +1,4 @@
-#### Use Case: 協助「政府資料需求者」資料申請得到負面回應時能夠自救 (self-service)
+# Use Case: 協助「政府資料需求者」資料申請得到負面回應時能夠自救 (self-service)
 ##### Primary Actor:
 政府資料需求者, esp. Lv2愈挫愈勇 （以下簡稱*使用者*）
 ##### Scope:

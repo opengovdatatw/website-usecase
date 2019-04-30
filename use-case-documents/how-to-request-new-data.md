@@ -1,4 +1,4 @@
-#### Use Case: 協助「政府資料需求者」透過 data.gov.tw 「我想要更多」提出資料申請
+# Use Case: 協助「政府資料需求者」透過 data.gov.tw 「我想要更多」提出資料申請
 ##### Primary Actor:
 政府資料需求者, esp. Lv1我想要資料 （以下簡稱*使用者*）
 ##### Scope:
